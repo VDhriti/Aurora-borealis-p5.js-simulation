@@ -150,7 +150,7 @@ function draw() {
   textFont('Helvetica');
   text('No. of stars', 286, 383);
   text('Sunset', 310, 328);
-  
+   
   textStyle(NORMAL);
   textFont('Georgia')
   textSize(18);
